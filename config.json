@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricspetch",
+        "uuid": 257472,
+        "checksum": "rgx4sc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
